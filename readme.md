@@ -15,4 +15,8 @@ Premiumify can unlock premium features of various apps, such as:
 
 Whenever installing a new plugin, And especially i Always work on big projects, so whenever i needed to open a new folder from the storage in Acode app those annoying ads always irritated me. Although ada are to benefit developers of app and plugins, they always show up on the wrong time. I know that f-droid version of Acode app has unlocked these premium features, but that version always seems to be outdated to me. whenever installing a paid plugin, it showes ```iad is not defined``` alert. I also know that an "Adblocker" plugin is already available in Acode, but it is paid at really high price. I wondered how many helpless programmers out there are just getting annoyed like me. So i created this plugin.
 
+## Acknowledgment
+
+This plugin was made with an intention of increasing developers productivity in Acode app by removing ads !
+
 If you want to see the code of this plugin, it is available [here](https://github.com/Mirza-Glitch/acode-plugin-premiumify)
