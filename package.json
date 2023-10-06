@@ -1,23 +1,13 @@
 {
-  "name": "acode-plugin-template",
+  "name": "acode-plugin-premiumify",
   "version": "1.0.0",
-  "description": "Latest Plugin Template For Acode",
+  "description": "",
   "main": "dist/main.js",
   "scripts": {
     "start-dev": "node .devServer/start-dev",
     "build": "webpack && node pack-zip.js",
     "build-release": "webpack --mode production && node pack-zip.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bajrangCoders/acode-plugin-template.git"
-  },
-  "author": "Raunak Raj",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bajrangCoders/acode-plugin-template/issues"
-  },
-  "homepage": "https://github.com/bajrangCoders/acode-plugin-template#readme",
   "dependencies": {
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.20.5",
